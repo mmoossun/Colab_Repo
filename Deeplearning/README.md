@@ -1,2 +1,6 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Pythont&logoColor=white"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoossun&langs_count=8)](https://github.com/mmoossun/github-readme-stats)
+<h1>Deeplearning</h1>
+
+1. 자연어 처리(NLP) 논문 구현
+2. 자연어 처리(NLP) 프로젝트(번역기, 가사 생성기)
+3. 
